@@ -1,9 +1,2 @@
 language: node_js
 node_js: node
-deploy:
-  provider: heroku
-  api_key:
-    secure: sD28xcJ29l5mNz1wA07rBFrN5ie4izBMSLXO4vXQMuaIkQ/dCknKrfsAuAo8ItxP5l18xSik5RMD+CfyJmVA2njt+XNQvh5kYt9L0QDdRNvcL/7PlvIraRnkvYE/iwauR/TivuL4amYHrxm/soVKwU6wUHIa3JIA0Mymi9I/Igxfb3gZQMil9+9/zC0hxZJSN7UyfbxcSEOuwKTJ2ZJlArBsm4xrtj38FcCS/8vG/mc03kLYDQTcYPAgttKNBHZ7RvrV9mkLWbZhtmgHXs0wqbr7idm7KsLrHfH3R6lgsCKz50LABSiqk7yPXNjyH+xyhscBE15RvNBP68W2UbCHT2VdtrtHTMoLObPLinDhVBv9iLMe1rFofPxmpQCxP7p+tl+onmmUL8yv87v2/lBOR7BJE686hjwUD8mazZJ4CnRO+xyAkJwJQuk4LGwQ+8tP+ahLPKQgTV9a35OReq2UXhiaSYqB7vaEAXSsPG31Cx2WwJYK6NNC4cdN5IwFZDmz5wyYzeoLVenMzuiCvPJDeXfYwWu8mZy160VE39gFTyJMU6Cjldf4KQb1EGqvQ3o1KZAIXohOB7ba7JfHzlr8Ti8n6VeYRDMJSQqPtLeoEeobXm9HTqw72sGSqvPXsmXWGZJP7iNxzVE54WbWdesLOxZqh1iBToME/lZRAdgRG7M=
-  app: afternoon-escarpment-49828
-  on:
-    repo: sesham18/node-shopping-list-integration-tests
